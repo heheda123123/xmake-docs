@@ -78,7 +78,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
 function descriptionApiGuide(): DefaultTheme.SidebarItem[] {
   return [
     { text: 'Specification', link: '/specification' },
-    { text: 'Conditions', link: '/conditions' }，
+    { text: 'Conditions', link: '/conditions' },
     { text: 'Global Interfaces', link: '/global-interfaces' },
 
   ]
